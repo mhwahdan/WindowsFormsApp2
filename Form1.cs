@@ -19,7 +19,7 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "OK";
+            button1.Text = "OK but modified";
         }
     }
 }
